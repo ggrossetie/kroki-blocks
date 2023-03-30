@@ -1,0 +1,8 @@
+{
+  "examples/**": {
+    "default": "githubnext__blocks-examples__edit-and-preview"
+  },
+  "examples/*": {
+    "default": "ggrossetie__kroki-blocks__kroki-block"
+  }
+}

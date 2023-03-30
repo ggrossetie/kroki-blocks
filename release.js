@@ -4,7 +4,7 @@ const path = require("path");
 const fs = require("fs");
 const { exec } = require("child_process");
 
-// Loop over each directory inside of the dist directory and generate a tar ball for each of them
+// Loop over each directory inside the dist directory and generate a tar ball for each of them
 const distDir = path.resolve(__dirname, "./dist");
 const distBlocks = fs.readdirSync(distDir);
 
