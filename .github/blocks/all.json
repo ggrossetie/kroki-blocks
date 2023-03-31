@@ -4,5 +4,11 @@
   },
   "examples/**": {
     "default": "githubnext__blocks-examples__edit-and-preview"
+  },
+  "examples/kroki.blockdiag": {
+    "default": "githubnext__blocks-examples__edit-and-preview"
+  },
+  "examples/datacenter.rackdiag": {
+    "default": "ggrossetie__kroki-blocks__kroki-block"
   }
 }
